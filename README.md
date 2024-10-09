@@ -31,7 +31,7 @@
 
 #### Others:
 - Firebase
-- 
+  
 ### Connect with me
 - **LinkedIn:** [channaveer](https://www.linkedin.com/in/channaveer-patil-704bb017a/)
 - **Instagram:** [channaveer](https://www.instagram.com/channaveerpatil999/)
