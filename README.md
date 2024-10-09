@@ -31,13 +31,7 @@
 
 #### Others:
 - Firebase
-
-### Sponsor Me
-By sponsoring my efforts, you're not merely contributing to the development of my projects; you're investing in their growth and sustainability. Your support empowers me to dedicate more time and resources to improving project features, addressing issues, and ensuring its continued relevance in the rapidly evolving landscape of technology.
-
-[![ko-fi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=flat&logo=ko-fi&logoColor=white)](https://www.buymeacoffee.com/yourlink)
-[![Sponsor](https://img.shields.io/badge/Sponsor%20Me-F16061?style=flat&logo=github&logoColor=white)](https://github.com/sponsors/yourlink)
-
+- 
 ### Connect with me
 - **LinkedIn:** [channaveer](https://www.linkedin.com/in/channaveer-patil-704bb017a/)
 - **Instagram:** [channaveer](https://www.instagram.com/channaveerpatil999/)
